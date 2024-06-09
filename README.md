@@ -1,0 +1,2 @@
+# Business-Analysis-on-Supply-Chain-and-its-Strategic-Management-in-Qlik-Sense
+This project enhances supply chain management using Qlik's advanced analytics. It optimizes logistics, forecasting, and inventory management, improving efficiency and responsiveness. Key features include data integration, intuitive dashboards, real-time tracking, and proactive decision-making through real-time analytics.
