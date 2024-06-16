@@ -13,8 +13,7 @@ Pre processed Dataset: [https://gkrvaksterple7i.sg.qlikcloud.com/dataset/666557d
 [https://drive.google.com/file/d/1yp2VGJSWLNNdTe3xshfQ5vjGcB_kt3n3/view?usp=sharing](url)
 
 # Demonstration Video
-[](url)
-
+[https://youtu.be/gFGDVTZKlHM](url)
 
 
 # DataCo Supply Chain Analysis Project: Informations
