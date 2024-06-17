@@ -1,7 +1,7 @@
 # Business-Analysis-on-Supply-Chain-and-its-Strategic-Management-in-Qlik-Sense
 This project enhances supply chain management using Qlik's advanced analytics. It optimizes logistics, forecasting, and inventory management, improving efficiency and responsiveness. Key features include data integration, intuitive dashboards, real-time tracking, and proactive decision-making through real-time analytics.
 
-# NOTE: It is recommended to copy and paste the links, rather than clicking on them.
+# NOTE: It is recommended to copy and paste the links in your browser, rather than clicking on them.
 
 # Dataset Link:
 [https://drive.google.com/file/d/1CD8IgWIUc59X-S-PhjAJxA8HNd3v8Hd-/view?usp=sharing](url)
@@ -23,7 +23,7 @@ Pre processed Dataset: [https://gkrvaksterple7i.sg.qlikcloud.com/dataset/666557d
 
 # DataCo Supply Chain Analysis Project: Informations
 
-      # Overview
+### Overview
       
       This project utilizes Qlik Sense to perform an in-depth analysis of DataCo's supply chain. The goal is to provide actionable insights into sales performance, geographical trends, product and customer analysis, and delivery metrics. By harnessing the power of Qlik Sense, this project transforms raw data into valuable business intelligence, supporting DataCo's strategic decision-making and operational optimization.
       
